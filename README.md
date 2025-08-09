@@ -36,6 +36,8 @@ Implemented entirely in Python
 
 ## Installation
 Install the required Python libraries: pip install python-vlc pywin32
+- Also set the path of the videos in the .py file
+
 
 ## Run
 To run the Python script directly: python "virus prank.py"
@@ -59,8 +61,7 @@ workflow diagram link: https://drive.google.com/drive/folders/1BsI4RghcmmoGJoaQV
 
 
 ### Project video Demo
-[## Video
-[Add your demo video link here] Explain what the video demonstrates](http://drive.google.com/drive/folders/1XsC6LlVib2FpdubWp06mXGPFye3Y8Qdj)
+http://drive.google.com/drive/folders/1XsC6LlVib2FpdubWp06mXGPFye3Y8Qdj
 
 
 ### Team Contributions
